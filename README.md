@@ -130,4 +130,4 @@ This project is open-source and available under the MIT License.
 Your Name
 GitHub: https://github.com/NirajPandit320
 
-Do Follow me on GitHub
+Do Follow me on Github and hit *
